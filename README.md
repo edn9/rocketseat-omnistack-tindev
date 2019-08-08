@@ -1,1 +1,0 @@
-# rocketseat-omnistack-tindev
