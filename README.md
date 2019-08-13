@@ -1,2 +1,5 @@
-# rocketseat-omnistack-tindev
-Rocketseat - Semana OmniStack 08/2019
+# Tindev
+Semana Rocketseat - OmniStack 08/2019, realizado projeto clone do Tinder para desenvolvedores. 
+Back: NodeJS, 
+Front: React, 
+Mobile: React-Native
